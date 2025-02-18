@@ -47,4 +47,4 @@ curl -X 'POST' \
 }
 ```
 #
-[buymeacoffee.com/ztj7728](https://buymeacoffee.com/ztj7728)
+[buymeacoffee](https://buymeacoffee.com/ztj7728)
