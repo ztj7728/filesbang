@@ -12,14 +12,20 @@ uvicorn app:app --reload
 nohup uvicorn app:app > output.log 2>&1 &
 
 # use
+
+```
 curl -X 'POST' \
   'http://127.0.0.1:8000/parse-file/' \
   -H 'accept: application/json' \
   -H 'Content-Type: multipart/form-data' \
   -F 'file=@/your_file_path/example.pdf'
 # feedback
+```
+
+```
 {
   "status": "success",
   "file_name": "example.pdf",
   "content": "This is the extracted text content of the uploaded document."
 }
+```
