@@ -1,12 +1,12 @@
 # filesbang
 bang your files for analysis via API interface.
 # Supported file extensions
-- text without extensions
-- .txt
+- .txt&text without extensions
 - .doc .docx
-- .xls .xlsx
-- .pptx
+- .xls .xlsx .xlm .csv
+- .ppt .pptx
 - .pdf
+- .json .py .html .js .css...
 # system environment in Development(theoretically supports arm release version)
 Ubuntu 20.04.3 LTS (GNU/Linux 5.4.0-205-generic x86_64)
 # pre-environment java
