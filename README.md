@@ -5,7 +5,7 @@ bang your files for analysis via API interface.
 - .txt
 - .doc .docx
 - .xls .xlsx
-- .ppt .pptx
+- .pptx
 - .pdf
 # system environment in Development(theoretically supports arm release version)
 Ubuntu 20.04.3 LTS (GNU/Linux 5.4.0-205-generic x86_64)
